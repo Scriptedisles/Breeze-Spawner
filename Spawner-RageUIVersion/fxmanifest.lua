@@ -38,3 +38,7 @@ clientscripts {
     "@RageUI/src/menu/windows/UIHeritage.lua",
     'main.lua'
 }
+
+shared_scripts {
+    "config.lua"
+}
