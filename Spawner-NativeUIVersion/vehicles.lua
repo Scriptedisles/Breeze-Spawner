@@ -1,0 +1,12 @@
+Vehicles = {
+    {
+        "Category": "Dodge",
+        "name": "2015 Durango",
+        "modelCode": "durango"
+    },
+    {
+        "Category": "Dodge",
+        "name": "2023 Hornet GT",
+        "modelCode": "23hornet"
+    }
+}

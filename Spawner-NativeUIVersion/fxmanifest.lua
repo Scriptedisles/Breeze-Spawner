@@ -9,3 +9,8 @@ clientscripts {
     '@NativeUI/NativeUI.lua',
     'main.lua'
 }
+
+shared_scripts {
+    "config.lua",
+    "vehicles.lua"
+}
